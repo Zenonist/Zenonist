@@ -1,4 +1,5 @@
-### Hi there 👋
+Coding Time <Start Recording on 9 Oct 2021>
+[![wakatime](https://wakatime.com/badge/user/26ec0524-20fa-49e4-916e-6444cf22ee07.svg)](https://wakatime.com/@26ec0524-20fa-49e4-916e-6444cf22ee07)
 
 <!--
 **Zenonist/Zenonist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
