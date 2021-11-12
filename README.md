@@ -1,4 +1,4 @@
-Coding Time <Start Recording on 9 Oct 2021>
+Coding Time
 
 [![wakatime](https://wakatime.com/badge/user/26ec0524-20fa-49e4-916e-6444cf22ee07.svg)](https://wakatime.com/@26ec0524-20fa-49e4-916e-6444cf22ee07)
 
