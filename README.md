@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phon</h1>
 <h3 align="center">Software Systems Engineering student</h3>
 
-- 🌱 I’m currently learning **React.js, Angular, Vue.js**
+- 🌱 I’m currently learning **React.js**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenonist&label=Profile%20views&color=0e75b6&style=flat-square" alt="zenonist" /> </p>
 
