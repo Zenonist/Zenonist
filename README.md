@@ -7,7 +7,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/26ec0524-20fa-49e4-916e-6444cf22ee07.svg)](https://wakatime.com/@26ec0524-20fa-49e4-916e-6444cf22ee07)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenonist" alt="zenonist" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenonist" alt="zenonist" /></a> </p> -->
 
 
 
