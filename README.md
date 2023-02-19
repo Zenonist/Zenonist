@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenonist&label=Profile%20views&color=0e75b6&style=flat-square" alt="zenonist" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenonist&label=Profile%20views&color=0e75b6&style=flat-square" alt="zenonist" /> </p> -->
 
 [![wakatime](https://wakatime.com/badge/user/26ec0524-20fa-49e4-916e-6444cf22ee07.svg)](https://wakatime.com/@26ec0524-20fa-49e4-916e-6444cf22ee07)
 
